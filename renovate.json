@@ -3,5 +3,8 @@
   "enabled": true,
   "baseBranches": [
     "master"
+  ],
+  "extends": [
+    "config:js-lib"
   ]
 }
